@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Room for a jovial tinker, Old brass to mend or, Here is a tinker full of mettle, the which can mend, pot, pan, or kettle : for stopping of holes is his delight, his work goes forward day and night : if there be any woman brave, whose couldrons need of mending have, send for this tinker, ne'r deny him, he'l do your work well if you try him : a proof of him, i'le forthwith show, 'cause you his workmanship may know : the tune is, Behold the man, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43852</idno><idno type="EEBO-CITATION">767840351</idno>
+  <idno type="VID">212301</idno>
+  <idno type="EEBO-PROQUEST">2240871539</idno>
+  
+            <idno type="OCLC"> 767840351</idno>
+            <idno type="OCLC">ocn 767840351</idno>
+            <idno type="STC">Wing R1922</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212301)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3012:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Room for a jovial tinker, Old brass to mend or, Here is a tinker full of mettle, the which can mend, pot, pan, or kettle : for stopping of holes is his delight, his work goes forward day and night : if there be any woman brave, whose couldrons need of mending have, send for this tinker, ne'r deny him, he'l do your work well if you try him : a proof of him, i'le forthwith show, 'cause you his workmanship may know : the tune is, Behold the man, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1680 and 1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>First line: It was a lady of the north.</note>
+                  <note>Text in four columns with woodcut above first two.</note>
+                  <note>Reproduction of original in: National Library of Scotland--Crawford Collections.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="genre_form">Ballads --  England --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:212301:1"/>
+            <pb facs="tcp:212301:2"/>
+            <pb facs="tcp:212301:3"/>
+            <head>Room for a Jovial Tinker, Old <hi>Brass</hi> to mend.</head>
+            <argument>
+               <lg>
+                  <l>OR, Here is a Tinker full of Mettle,</l>
+                  <l>The which can mend, pot, pan, or Kettle;</l>
+                  <l>For stopping of holes is his delight,</l>
+                  <l>His work goes forward day and night:</l>
+                  <l>If there be any Woman brave,</l>
+                  <l>Whose Couldrons need of mending have;</l>
+                  <l>Send for this Tinker, ne'r deny him,</l>
+                  <l>He'l do your work well if you try him:</l>
+                  <l>A proof of him, i'le forthwith show,</l>
+                  <l>'Cause you his workmanship may know.</l>
+               </lg>
+            </argument>
+            <opener>The Tune is, <hi>Behold the man, &amp;c.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IT was a Lady of the <hi>North,</hi>
+               </l>
+               <l>she lov'd a Gentleman,</l>
+               <l>And knew not well what course to take,</l>
+               <l>to use him now and then;</l>
+               <l>Wherefore she writ a Letter,</l>
+               <l>and seal'd it with her hand,</l>
+               <l>And bid him be a Tinker,</l>
+               <l>to mend both pot and Pan:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey ho hey derry derry down,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey trey down down derry,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And when this merry Gentleman,</l>
+               <l>the Letter he did read,</l>
+               <l>He got a Budget on his back,</l>
+               <l>and Apron with all spéed:</l>
+               <l>His pretty shears and pinters,</l>
+               <l>so well they did agree,</l>
+               <l>With a long Pike st<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff upon his neck,,</l>
+               <l>came triping o're the Lee:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>When he came to the Ladies house,</l>
+               <l>he knocked at the gate,</l>
+               <l>Then answered this Lady gay,</l>
+               <l>who knocketh there so late?</l>
+               <l>'Tis I Madam the Tinker said,</l>
+               <l>I work for Gold and Fee,</l>
+               <l>If y' have any broken Pots and Pans,</l>
+               <l>then bring them all to me:</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb facs="tcp:212301:3"/>
+               <l>
+                  <hi>I</hi> Am the bravest Tinker,</l>
+               <l>that liveth beneath the Sun</l>
+               <l>If you have any Work to do,</l>
+               <l>you shall have it well done:</l>
+               <l>I have brass within my Budget,</l>
+               <l>and punching under my Apron,</l>
+               <l>I'm come unto your Ladyship,</l>
+               <l>and mean to mend your Cauldron.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey ho hey derry derry down,</hi>
+                  </l>
+                  <l>
+                     <hi>with a hey trey down down derry,</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I prethes said the Lady gay,</l>
+               <l>bring now thy Budget in,</l>
+               <l>I have store of work for thee to do,</l>
+               <l>if thou wilt once begin.</l>
+               <l>Now when the Tinker he came in,</l>
+               <l>that did the Budget bear,</l>
+               <l>God bless, quoth he, your Ladyship,</l>
+               <l>God bless you Madam fair,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But when the Lady knew his face,</l>
+               <l>she then began to wink,</l>
+               <l>Hast lusty Butler then, quoth she,</l>
+               <l>to fetch the man some drink,</l>
+               <l>Give h m some meat as we do eat,</l>
+               <l>and drink as we do use,</l>
+               <l>It is not for a Tinkers trade,</l>
+               <l>good liquor to refuse.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But when that he had eat and drunk,</l>
+               <l>the truth of all is so,</l>
+               <l>The Lady took, him by the sleeve,</l>
+               <l>her Work to him to show,</l>
+               <l>Set up thy tools Tinker, quoth she,</l>
+               <l>and see there be none lost,</l>
+               <l>And mend! he Kettle handsomely,</l>
+               <l>what e're it doth me cost,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Your Work Madam shall be well done,</l>
+               <l>if you will pay me for't,</l>
+               <l>For every nail that I do drive,</l>
+               <l>you shall give me a mark:</l>
+               <l>If I do not drive the nail to'th head,</l>
+               <l>I'le have nothing for my pain,</l>
+               <l>And what I receive of you,</l>
+               <l>shall be return'd again.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey,</hi> &amp;c</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>At last being come into the room,</l>
+               <l>where he the Work should do,</l>
+               <l>The Lady lay down on the bed,</l>
+               <l>so did the Tinker too.</l>
+               <l>The Tinker did his work full well,</l>
+               <l>the Lady was not offended,</l>
+               <l>But before that she rose from the bed,</l>
+               <l>her Cauldron was well mended.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But when his Work was at an end,</l>
+               <l>which he d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the dark,</l>
+               <l>She put h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r hand into her purse,</l>
+               <l>and gave him twenty mark,</l>
+               <l>Here's mony for thy Word, saide,</l>
+               <l>and I thank thee for thy pain:</l>
+               <l>And when my Cauldron mending lacks,</l>
+               <l>I'le send for thee again.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Tinker he was well content,</l>
+               <l>for that which he had done,</l>
+               <l>So took his Budget on his back,</l>
+               <l>and quickly he was gone,</l>
+               <l>Then the Lady to her Husband went,</l>
+               <l>O my dear quoth she,</l>
+               <l>I have set the bravest Tinker at Work,</l>
+               <l>that ever you did see.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No fault at all this Tinker hath</l>
+               <l>but he takes dear for his Work:</l>
+               <l>That little time that he wrought here</l>
+               <l>it cost me twenty mark.</l>
+               <l>If you had been so wise quoth he,</l>
+               <l>for to have held your own,</l>
+               <l>Before you set him to his Work,</l>
+               <l>the price you might have known.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Pray hold your peace my Lord, qd. she,</l>
+               <l>I think it not to dear,</l>
+               <l>If you coold do't so well, twould save</l>
+               <l>you forty pound a year,</l>
+               <l>With that the Lord most lovingly,</l>
+               <l>to make all things amends,</l>
+               <l>He kindly kist his Lady gay,</l>
+               <l>and so they both were friends,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>You merry Tinkers every one,</l>
+               <l>that bear this new made Sonnet,</l>
+               <l>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en as y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u do a Ladies Work,</l>
+               <l>b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sure you think upon it.</l>
+               <l>Drive home your nails unto the head,</l>
+               <l>and do your Work profoundly</l>
+               <l>And then no doubt your Mistresses,</l>
+               <l>will pay you for it soundly,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With a hey, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> M. Coles, T. Vere, J. Wright, J. Clarke, W. Thackeray <hi>and</hi> T. Passinger.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
